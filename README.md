@@ -15,4 +15,9 @@ Nutri Scan is a Flutter-based mobile application that allows users to generate a
 - mobile_scanner
 
 ## Screenshots
-(Add screenshots here)
+
+![Home](Screenshot/NUTRISCAN_1.jpg)
+
+![QR Generate](Screenshot/NUTRISCAN_2.jpg)
+
+![QR Scan](Screenshot/NUTRISCAN_3.jpg)
